@@ -1,1 +1,1 @@
-This is my personal blog. And simple.
+This is my personal blog. & simple.
