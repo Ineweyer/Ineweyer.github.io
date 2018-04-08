@@ -1,2 +1,1 @@
-My personal blog.
-Test for git``
+This is my personal blog.
